@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body {
+	
+	background-image: url('robot.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+}
+
+#header {
+	border-bottom: 1px black;
+	margin-bottom: 20px;
+	color: #336699;
+	padding-bottom: 10px;	
+}
+
+#footer {
+	border-top: 1px black;
+	margin-top: 20px;
+	color: #336699;
+	padding-top: 10px;	
+}
+.text-left-right {
+    text-align: right;
+    position: relative;
+}
+.left-text {
+    left: 0;
+    position: absolute;
+}
+.byline {
+    font-size: 16px;
+    color: rgba(140, 140, 140, 1);
+}
+
